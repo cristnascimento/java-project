@@ -1,0 +1,10 @@
+John,Python,10500
+Peter,Javascript,11200
+Mark,Ruby,13000
+Anne,PHP,11400
+Sammy,Javascript,12800
+Alicia,Ruby,17000
+Mary,Python,11400
+Tina,PHP,9500
+Bob,PHP,8000
+Kirst,Python,12000
